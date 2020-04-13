@@ -1,0 +1,49 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "FPGA_LED0",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_LED1",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_LED2",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_LED3",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_LED4",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_LED5",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_LED6",
+					"strict" : false
+				},
+				{
+					"name" : "FPGA_LED7",
+					"strict" : false
+				},
+				{
+					"name" : "SDR_tx",
+					"strict" : false
+				},
+				{
+					"name" : "push_btn3",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
